@@ -1,5 +1,5 @@
 # ColorReg
-Recognizing red objects and Circular shapes with Parrot 2.0 ARdrone with OpenCV library - Python
+Recognizing red objects and circular shapes with Parrot 2.0 ARdrone with OpenCV library - Python
 
 There are three python programs in this project.
 
